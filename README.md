@@ -1,11 +1,13 @@
-# FLJsonFeeder
+# FLJsonFeeder - a basic RESTful server
 
 ## Objective
-
-
+A RESTful server implement HTTP methods(GET, PUT, POST, DELETE.) The script is written in Node.js so it is platform independent. 
+The internal and output data scturcture is JSON, which can be recognize and interpret by other service.
 
 ## Usage
-
+Install Node.js.
+Download this script.
+Run the script.
 
 
 ## Developing
